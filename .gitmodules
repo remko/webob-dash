@@ -1,0 +1,3 @@
+[submodule "webob"]
+	path = webob
+	url = https://github.com/Pylons/webob.git
